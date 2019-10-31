@@ -31,4 +31,6 @@ $calendar = [
   "December" => "12月"
 ];
 
-echo $calendar[December];
+echo $calendar["December"];
+
+echo $calendar["October"];
